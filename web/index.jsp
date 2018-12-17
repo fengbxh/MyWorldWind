@@ -12,7 +12,6 @@
   </head>
   <body>
   this is my world wind
-  测试git中
-  修改这个页面提交不了吗？
+  测试是否可以修改成功
   </body>
 </html>
